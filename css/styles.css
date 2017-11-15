@@ -1,0 +1,21 @@
+html{
+  background-color:black;
+}
+h1{
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+.img1{
+  float: right;
+}
+.img2{
+  float: left;
+}
+.sidebar{
+  float: right;
+  color: red;
+  font-size: 30px;
+  width: 30%;
+  background-color: yellow;
+}
